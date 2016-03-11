@@ -1,0 +1,28 @@
+name: nativusenergy
+favicon: null
+layout_spectrum: 0.145622304873541
+typography_spectrum: 0.5622453310061246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23808514093980193
+  lightness: 0.7891093220096081
+  saturation: 0.6877207371871918
+  rhythmicContrast: 0.6937130820006132
+purpose: []
